@@ -1,4 +1,4 @@
-packer_template
+packer template
 ===============
 
 Packer test template
